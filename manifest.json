@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Bootcamp Information from linkedin",
+    "version": "1.0",
+    "description": "Get Information from contact profiles",
+    "action": {
+        "default_popup": "App/index.html"
+      },
+    "permissions": ["activeTab", "scripting"]
+}
